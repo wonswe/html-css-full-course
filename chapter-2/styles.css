@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.google-header {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px;
+    gap: 14px;
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.img-button {
+    border: none;
+    background: transparent;
+}
+
